@@ -10,7 +10,7 @@ except ImportError:
     USE_CYTHON = False
 
 
-__NAME__ = "csgraph_mod"
+__NAME__ = "csgraph_merlot_addapted"
 __VERSION__ = "0.0.2"
 __AUTHOR__ = "Nikolaos Papadopoulos, Johannes Soeding"
 __AUTHOR_EMAIL__ = "npapado@mpibpc.mpg.de"
